@@ -1,2 +1,2 @@
-# scripts to have golang mac
+# scripts to have golang in mac
 
